@@ -42,6 +42,11 @@ div.gallery img {
   height: auto;
   align: center;
 }
+div.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 div.desc {
   padding: 15px;
