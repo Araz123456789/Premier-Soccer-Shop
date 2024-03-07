@@ -40,7 +40,6 @@ div.gallery:hover {
 div.gallery img {
   width: 200%;
   height: auto;
-  align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
